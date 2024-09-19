@@ -9,7 +9,7 @@ Note .gitignore is set to ignore node_modules
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Reaction Timer System
-## Simone Peter (smpeter)
+## Simone Peter (smpeter) - MIT 1.125 Architecting and Engineering Software Systems
 
 <br>
 This is a web-based reaction timer system that allows users to test their reaction time by clicking a button as soon as its color changes. The system tracks and records each user's reaction time, displays the top 5 fastest times, prevents cheating, and provides an option for resetting the competition data.
