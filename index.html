@@ -137,6 +137,7 @@
             // Clear the user list on the page
             const userList = document.getElementById('userList');
             userList.innerHTML = '';
+            competitionTimeElement.textContent = '';
 
             // Send a request to the server to reset the competition data
             fetch('/reset', {
